@@ -45,7 +45,7 @@ Make sure you have the following installed:
    pip install -r requirements.txt
 6. Set up your .env file with the database connection string:
    ```bash
-   DATABASE_CONNECTION_STRING=mongodb://username:password@host:port/database
+   database_connection_string=mongodb://username:password@host:port/database
 ### Usage
 1. To run the application, execute the following command:
      ```bash
